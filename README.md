@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @chadbohl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @chadbohl
+
+I’m interested in iOS development
+
+I’m currently learning Swift 5 and Xcode 12
+
+I’m seeking an entry level iOS developer position
+
+How to reach me: 
 
 <!---
 chadbohl/chadbohl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
