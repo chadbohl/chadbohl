@@ -1,10 +1,5 @@
 Hi, I’m @chadbohl
 
-I’m interested in iOS development
-
-I’m currently learning Swift 5 and Xcode 12
-
-I’m seeking an entry level iOS developer position
 
 
 
